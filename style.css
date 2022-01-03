@@ -7,3 +7,13 @@
     width: 100%;
     height: 100%;
 }
+
+.img2 {
+    outline: 5px solid green;
+    width: 200px;
+    height: 200px;
+}
+.img2 img {
+    width: 100%;
+    height: 100%;
+}
